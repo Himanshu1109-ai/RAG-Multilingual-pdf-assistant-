@@ -1,0 +1,14 @@
+python-dotenv
+pytesseract
+pdf2image
+Pillow
+streamlit
+langchain
+langchain-community
+faiss-cpu
+huggingface-hub
+langchain-groq
+sentence-transformers
+pytesseract
+Pillow
+opencv-python-headless
