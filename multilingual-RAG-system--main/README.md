@@ -1,4 +1,4 @@
-# RAG_PDF_chatbot
+# RAG_PDF_assistant
 # 📄 Chat with PDFs — Multilingual RAG App using Groq API
 
 This is a Streamlit-based web app that allows you to upload one or more PDFs and ask questions about their content. It uses **Groq LLMs** for answering queries based on document context with **HuggingFace embeddings** and **FAISS vector store**.
